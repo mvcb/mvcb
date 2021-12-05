@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M.V.Chaitanya Bharadwaj
+- 👋 Hi, I’m Chaitanya Bharadwaj
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate 
