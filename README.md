@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://mvcb.io)
 <h1 align="center">Hi 👋, I'm Chaitanya Bharadwaj</h1>
-<h3 align="center">A passionate Machine learning Engineer from India</h3>
+<h3 align="center">A passionate Machine learning Engineer.</h3>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvcb&label=Profile%20views&color=0e75b6&style=flat" alt="mvcb" /> </p>
 
